@@ -1,0 +1,6 @@
+{
+  "name": "GreenBet Dashboard",
+  "description": "Dashboard for GreenBet - Tecnologia a seu favor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
